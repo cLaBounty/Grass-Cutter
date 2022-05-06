@@ -1,4 +1,4 @@
-# GPR-300 Final Project
+# GPR-300 Final Project: Grass Cutter
 
 ## Team Members
 - Cameron LaBounty
