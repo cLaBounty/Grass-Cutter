@@ -2,6 +2,11 @@
 
 ### [Demo](https://drive.google.com/file/d/1HF-dKx4W-A0aQNqmrfmgWAcLSy6Ysl2K/view?usp=sharing)
 
+## Team Members
+- Cameron LaBounty
+- Raymond Zheng
+- Patrick Fagan
+
 ## Shaders and Particle Effects
 - Grass Cutting Effect
 - Grass Wind Effect
@@ -16,8 +21,3 @@
 - Custom Two Layer Terrain
 - Inverse Kinematics (Player Feet)
 - Lawnmower Rotation Adjusts to the Normal of the Terrain
-
-## Team Members
-- Cameron LaBounty
-- Raymond Zheng
-- Patrick Fagan
