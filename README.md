@@ -22,5 +22,5 @@
 - Inverse Kinematics (Player Feet)
 - Lawnmower Rotation Adjusts to the Normal of the Terrain
 
-## Unreal Asset Store
+## UE Marketplace Asset Credits
 - Stylized Nature Pack by Tiny Talisman Games
