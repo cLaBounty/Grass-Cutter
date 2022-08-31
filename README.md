@@ -1,11 +1,9 @@
-# GPR-300 Final Project: Grass Cutter
+# Grass Cutter
 
-### [Demo](https://drive.google.com/file/d/1HF-dKx4W-A0aQNqmrfmgWAcLSy6Ysl2K/view?usp=sharing)
+### [Demo](https://www.youtube.com/watch?v=X41zKfmx03Y)
 
-## Team Members
-- Cameron LaBounty
-- Raymond Zheng
-- Patrick Fagan
+## Summary
+A grass cutting game and simulation made with Unreal Engine 4.
 
 ## Shaders and Particle Effects
 - Grass Cutting Effect
@@ -17,10 +15,14 @@
 - Lawnmower Exhaust
 
 ## Additional Features
-- Water
+- UE4 Water
 - Custom Two Layer Terrain
 - Inverse Kinematics (Player Feet)
-- Lawnmower Rotation Adjusts to the Normal of the Terrain
 
 ## UE Marketplace Asset Credits
 - Stylized Nature Pack by Tiny Talisman Games
+
+## Team Members
+- Cameron LaBounty
+- Raymond Zheng
+- Patrick Fagan
